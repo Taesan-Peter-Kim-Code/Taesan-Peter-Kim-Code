@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working as a Software Engineer.
+- 🔭 &nbsp; I’m currently learning Cloud Engineering.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studyied Human-centered computer developing and programming.
 - 💼 &nbsp; API developer and Back-end Developer.
