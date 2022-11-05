@@ -14,7 +14,7 @@
 
 - 💻 &nbsp; Python | Java | JavaScript  
 - 🌐 &nbsp; AWS | Docker | Sumo Logic
-- 🛢 &nbsp; MySQL
+- 🛢 &nbsp; MySQL | MangoDB
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
 
 <h3> 🤝🏻 Connect with Me </h3>
