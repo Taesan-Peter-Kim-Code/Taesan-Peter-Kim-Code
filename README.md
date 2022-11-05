@@ -24,3 +24,5 @@
 &nbsp; <a href="https://www.linkedin.com/in/peter-kim-436782183/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="taesan.peter.kim@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
+
+⭐️ From [Peter Kim](https://github.com/Taesan-Peter-Kim-Code/)
