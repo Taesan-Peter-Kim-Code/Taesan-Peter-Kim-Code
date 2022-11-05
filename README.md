@@ -13,9 +13,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | JavaScript  
-- 🌐 &nbsp; 
+- 🌐 &nbsp; AWS | Docker | Sumo Logic
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; AWS | Docker | PyCharm | Visual Studio code | Eclipse | Git
+- 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
 
 <h3> 🤝🏻 Connect with Me </h3>
 
