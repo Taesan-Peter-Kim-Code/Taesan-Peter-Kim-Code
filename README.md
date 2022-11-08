@@ -12,7 +12,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | JavaScript  
+- 💻 &nbsp; Python | Java | JavaScript | HTML | CSS
 - 🌐 &nbsp; AWS | Docker | Sumo Logic
 - 🛢 &nbsp; MySQL | MangoDB
 - 🔧 &nbsp; PyCharm | Visual Studio code | Eclipse | Git
