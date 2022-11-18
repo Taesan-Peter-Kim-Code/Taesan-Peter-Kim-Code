@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Studied Human-centered computer developing and programming.
 - 💼 &nbsp; Back-end Developer: Building API and WebApp.
 - 🌱 &nbsp; Enthusiast in WebApp Developing, Cloud Engineering and Artificial Intelligence .
-- ✍️ &nbsp; Playing Guitar and trying out new foods as hobbies/side hustles. 
+- ✍️ &nbsp; Playing guitar and trying out new foods as hobbies/side hustles. 
 
 <h3>🛠 Tech Stack</h3>
 
