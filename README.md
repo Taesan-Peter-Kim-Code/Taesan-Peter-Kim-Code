@@ -5,8 +5,8 @@
 
 - 🔭 &nbsp; I’m currently learning Infrastructure Engineering.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studyied Human-centered computer developing and programming.
-- 💼 &nbsp; API developer and Back-end Developer.
+- 🎓 &nbsp; Studied Human-centered computer developing and programming.
+- 💼 &nbsp; Back-end Developer: Building API and WebApp.
 - 🌱 &nbsp; Enthusiast in WebApp Developing, Cloud Engineering and Artificial Intelligence .
 - ✍️ &nbsp; Playing Guitar and trying out new foods as hobbies/side hustles. 
 
