@@ -13,6 +13,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | JavaScript | GoLang | GraphQL | HTML | CSS
+- ⚙️ &nbsp; Django | Node.js | React.js
 - 🌐 &nbsp; AWS | Docker | Sumo Logic | Postman | Jira
 - 🛢 &nbsp; MySQL | MangoDB | PostgreSQL
 - 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git
