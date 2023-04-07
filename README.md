@@ -12,9 +12,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | JavaScript | HTML | CSS
-- 🌐 &nbsp; AWS | Docker | Sumo Logic
-- 🛢 &nbsp; MySQL | MangoDB
+- 💻 &nbsp; Python | Java | JavaScript | GoLang | GraphQL | HTML | CSS
+- 🌐 &nbsp; AWS | Docker | Sumo Logic | Postman | Jira
+- 🛢 &nbsp; MySQL | MangoDB | PostgreSQL
 - 🔧 &nbsp; PyCharm | Visual Studio Code | Eclipse | Git
 
 <h3> 🤝🏻 Connect with Me </h3>
